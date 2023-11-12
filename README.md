@@ -10,5 +10,5 @@ Uses https://github.com/ncarandini/KiCad-RP-Pico for the Pico footprint.
 
 * Add 100+uF capacitor on 12V power rail below each driver, as datasheet mentions "A minimum capacity of 100µF near the driver is recommended for best performance"
 * Larger 12V track width - see https://www.4pcb.com/trace-width-calculator.html
-* Use thicker copper
+* Use thicker copper (2 oz)
 * Finish software
